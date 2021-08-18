@@ -9,12 +9,12 @@ _Desenvolvedor de sistemas (as vezes um pouco de DBA 😀) atualmente moro um ta
 **Backend Engineer / Tech Lead** @ [MOL - Mediação Online](https://www.mediacaonline.com//) _(Nov 2019 - Atual)_ <br>
 Como líder técnico meu papel é orientar os desenvolvedores como atuar tecnicamente em cada sprint, além de codar bastante.
   - Implementação e melhorias do ETL.
-  - **_Tecnologias utilizdas no ELT:_**: Aws: S3, Lambdas, CloudWatch,  RDS (Postgres) / Python, Serveless Frameword
+  - **_Tecnologias utilizdas no ELT:_**: Aws: S3, Lambdas, CloudWatch,  RDS (Postgres) / Docker / Python, Serveless Frameword
   - Manutenção dos sistemas legados:
     - Além do ETL existem 3 sistemas legados ao qual eu também desenvolvo features e fixes:
     - **_Technologies utilizadas no legado:_**
-    - **No primeiro deles:** Aws: EC2, RDS (postgres), ElasticBeanStalk / Ruby on Rails; AngularJs
-    - **Nos demais:** Aws: EC2, RDS (postgres) / nodeJs; VueJs
+    - **No primeiro deles:** Aws: EC2, RDS (postgres), ElasticBeanStalk / Docker / Ruby on Rails; AngularJs
+    - **Nos demais:** Aws: EC2, RDS (postgres) / Docker / nodeJs; VueJs
   - Reescrita e dos sistema para utilzar clean api com TypeScript e TDD
     - Neste caso eu tenho mantido o sistema em Ruby on Rails e AngularJs
     - Este sistema esta sendo reescrito utilizando serviços e uma nova cultura de desacomplamento.
@@ -44,7 +44,7 @@ Tive de andar entre as squads e entre os fornecedores, até entender em que pé 
     - **Meetup sobre PWA**
     - Nosso time apresentava a cada 15 dias um assunto definido no meetup anterior, e eis que fiquei responsável por apresentar em 20 minutos para todos do time e alguns convidados o que é o PWA, e quais as ações que o banco estava executando para tornar seus apps nativos e sites em PWA´s.
     
-**FullStack Enginner** @ [CrossX] (http://appcrossx.com/) _(Nov 2016 - Out 2018)_ <br>
+**FullStack Enginner** @ [CrossX](http://appcrossx.com/) _(Nov 2016 - Out 2018)_ <br>
   - Análise e desenvolvimento dos módulos: financeiro, produto, vendas, faturamento.
 	  - Hotfix dos erros que ocorrem em tempo real.
 	  - Melhorei querys que levavam mais de 3 minutos ou davam timeout, para alguns segundos ou menos.
@@ -58,12 +58,37 @@ Tive de andar entre as squads e entre os fornecedores, até entender em que pé 
   - Recorte de layout PSD, 
   - **_Technologies utilizadas:_:** Sass, AngularJs, Laravel5, Git
 
-**Vivo Empresas** @ [Advanta] (http://www.advanta.com.br/) _(Set 2014 - Jun 2016)_ <br>
+**Fullstack Enginner** @ [Advanta / Vivo Empresas](http://www.advanta.com.br/) _(Set 2014 - Jun 2016)_ <br>
   - Manutenção do Sistema: O sistema foi desenvolvido com um framework próprio que gerava muitos erros.
   - Implementei o yii2 framework Yii, padronização de código.
   - No front-end implementei o jquery easyUI, highcharts e bootstrap.
   - Elaboração e manutenção nas procedures no sql server;
   - Liderei a equipe, participando da análise de requisitos, elaboração do frontend e algumas vezes na modelagem do banco.
   - **_Technologies utilizadas:_:** PHP, CSS, Jquery, Javascript, Bootstrap, Highcharts, Jquery EasyUi, Sql Server
+
+**Fullstack Enginner** @ [Web Experience] _(Fev 2014 - Set 2014)_ <br>
+  - Desenvolvimento de uma nova ferramenta de e-commerce; 
+  - Levantamento de requisitos; 			
+  - Modelagem de dados; 
+  - Implementação de novas tecnologias.
+  - **_Technologies utilizadas:_:** PHP, Yii, Jquery, Jquery Easy Ui, CSS
+
+**Fullstack Enginner** @ [Fastmind](http://www.fastmind.com.br) _(Ago 2013 - Fev 2014)_ <br>
+  - Levantamento dos principais problemas no sistema de controle de logs de telefonia, desenvolvido pela empresa.
+  - Elaboração de um mini-framework para tarefas automatizar tarefas.
+  - Dentro deste micro-framework criamos: robos para fazer downloads, descompactar arquivos e importa-los no banco de dados.
+  - **_Technologies utilizadas:_:** Yii, PHP, Mysql, Jquery, Jquery Easy Ui, PostGres, Mysql
+
+**Fullstack Enginner** @ [Studiorama](http://www.studiorama.com.br) _(Out 2010 - Ago 2013)_ <br>
+  - Desenvolvimento de rede social corporativa.
+  - Padronização do código de desenvolvimento.
+  - Análise de requisitos.
+  - Modelagem do banco de dados.
+  - Estudo e aplicação da melhor ferramenta (ffmpeg) para automatizar a conversão de vídeos enviados.
+  - **_Technologies utilizadas:_:** Yii, PHP, Jquery, Jquery Ui, Postgres
+
+**Fullstack Enginner** @ [Datto](http://www.datto.com.br)
+  - Datto é uma fábrica de software onde cada um era responsável por todas as fases do projeto
+  - **_Technologies utilizadas:_:** PHP; Zend 1; Smarty templates; Mysql; Jquery; Linux; Mysql
 
 <br><br>
