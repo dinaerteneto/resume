@@ -13,12 +13,12 @@ Como líder técnico meu papel é orientar os desenvolvedores como atuar tecnica
   - Manutenção dos sistemas legados:
     - Além do ETL existem 3 sistemas legados ao qual eu também desenvolvo features e fixes:
     - **_Technologies utilizadas no legado:_**
-      - No primeiro deles: Aws: EC2, RDS (postgres), ElasticBeanStalk / Ruby on Rails; AngularJs
-      - Nos demais: Aws: EC2, RDS (postgres) / nodeJs; VueJs
+    - **No primeiro deles:** Aws: EC2, RDS (postgres), ElasticBeanStalk / Ruby on Rails; AngularJs
+    - **Nos demais:** Aws: EC2, RDS (postgres) / nodeJs; VueJs
   - Reescrita e dos sistema para utilzar clean api com TypeScript e TDD
     - Neste caso eu tenho mantido o sistema em Ruby on Rails e AngularJs
     - Este sistema esta sendo reescrito utilizando serviços e uma nova cultura de desacomplamento.
-    - **_Tecnologias utilizdas na reescrita:_** TypeScript, Jest, NodeJs, Postgres
+    - **Tecnologias utilizdas na reescrita:** TypeScript, Jest, NodeJs, Postgres
   - E aquela parte de DBA?
     - Por conhecer grande parte do banco de dados, e também por conhecer bastante o ETL também fica por minha conta alguns selects, updates, deletes e inserts.
     - Sei como executar subqueries, joins complexos e até mesmo updates com joins.
@@ -30,17 +30,40 @@ Como líder técnico meu papel é orientar os desenvolvedores como atuar tecnica
   - No banco carrefour aprendi muito sobre organização do trabalho e também sobre processos.
   - Minhas principais atividades eram:
     - Escrever as histórias junto aos stackholders (clientes internos do banco)
-      - Definindo a parte técnica da história, bem como criando protótipos para facilitar o entendimento do time.
-      - Colocar as histórias na esteira de desenvolvimento.
-      - Apoiar o time de desenvolvedores nas soluções que deveriam ser utilizadas, bem como as apis que deveriam ser utilizadas.
-      - Participar das reuniões de reserva de ambiente de desenvolvimento.
-      - Negociar as subidas para os ambientes de homologação.
-      - Orientar o time de tester em cada fase do projeto.
-      - Negociar e acompanhar a subida em produção.
+    - Definindo a parte técnica da história, bem como criando protótipos para facilitar o entendimento do time.
+    - Colocar as histórias na esteira de desenvolvimento.
+    - Apoiar o time de desenvolvedores nas soluções que deveriam ser utilizadas, bem como as apis que deveriam ser utilizadas.
+    - Participar das reuniões de reserva de ambiente de desenvolvimento.
+    - Negociar as subidas para os ambientes de homologação.
+    - Orientar o time de tester em cada fase do projeto.
+    - Negociar e acompanhar a subida em produção.
   - Me destaquei no carrefour por minha análise aprofundada no projeto de segunda via de cartão.
     - Este projeto envolvia ao menos 3 fornecedores distintos, e o grande desafio foi conectar todas as partes envolvidas.
     - Como o banco carrefour estava fazendo a transformação digital, a equipe que assumiu o projeto era muito nova, e não conhecia todas as partes do processo!
 Tive de andar entre as squads e entre os fornecedores, até entender em que pé estava cada fase do projeto.
     - **Meetup sobre PWA**
     - Nosso time apresentava a cada 15 dias um assunto definido no meetup anterior, e eis que fiquei responsável por apresentar em 20 minutos para todos do time e alguns convidados o que é o PWA, e quais as ações que o banco estava executando para tornar seus apps nativos e sites em PWA´s.
+    
+**FullStack Enginner** @ [CrossX] (http://appcrossx.com/) _(Nov 2016 - Out 2018)_ <br>
+  - Análise e desenvolvimento dos módulos: financeiro, produto, vendas, faturamento.
+	  - Hotfix dos erros que ocorrem em tempo real.
+	  - Melhorei querys que levavam mais de 3 minutos ou davam timeout, para alguns segundos ou menos.
+	  - Elaboração de triggers e Stored Procedure.
+	  - Cron para envio de push, cobrança automática no cartão de crédito e renovação automática de planos.
+	  - Integração com gateway de pagamento (PagarMe) e split de pagamento.
+	  - **_Technologies utilizadas:_** Less, Gulp, Laravel5, Yii2, Git, Git Flow, Amazon Aws, Jquery, VueJs, PHP 
+
+**Fullstack Enginner** @ [FTD] (https://ftd.com.br/) _(Set 2016 - Nov 2016)_ <br>
+  - Integração com gateway de pagamento (Maxi Pago)
+  - Recorte de layout PSD, 
+  - **_Technologies utilizadas:_:** Sass, AngularJs, Laravel5, Git
+
+**Vivo Empresas** @ [Advanta] (http://www.advanta.com.br/) _(Set 2014 - Jun 2016)_ <br>
+  - Manutenção do Sistema: O sistema foi desenvolvido com um framework próprio que gerava muitos erros.
+  - Implementei o yii2 framework Yii, padronização de código.
+  - No front-end implementei o jquery easyUI, highcharts e bootstrap.
+  - Elaboração e manutenção nas procedures no sql server;
+  - Liderei a equipe, participando da análise de requisitos, elaboração do frontend e algumas vezes na modelagem do banco.
+  - **_Technologies utilizadas:_:** PHP, CSS, Jquery, Javascript, Bootstrap, Highcharts, Jquery EasyUi, Sql Server
+
 <br><br>
