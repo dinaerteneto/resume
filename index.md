@@ -1,10 +1,10 @@
 # Dinaerte Neto
 
-_Desenvolvedor de sistemas (as vezes um pouco de DBA :D) atualmente moro um tantinho na Bahia e um tantinho em São Paulo, Brasil_ <br>
+_Desenvolvedor de sistemas (as vezes um pouco de DBA 😀) atualmente moro um tantinho na Bahia e um tantinho em São Paulo, Brasil_ <br>
 
 [Email](mailto:dinaerteneto@gmail.com) / [LinkedIn](https://www.linkedin.com/in/dinaerteneto/) / [GitHub](https://github.com/dinaerteneto/)
 
-## 💻 Experiência
+## 💻 Experiência técnica
 
 **Backend Engineer / Tech Lead** @ [MOL - Mediação Online](https://www.mediacaonline.com//) _(Nov 2019 - Atual)_ <br>
 Como líder técnico meu papel é orientar os desenvolvedores como atuar tecnicamente em cada sprint, além de codar bastante.
