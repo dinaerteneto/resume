@@ -87,8 +87,13 @@ Tive de andar entre as squads e entre os fornecedores, até entender em que pé 
   - Estudo e aplicação da melhor ferramenta (ffmpeg) para automatizar a conversão de vídeos enviados.
   - **_Technologies utilizadas:_:** Yii, PHP, Jquery, Jquery Ui, Postgres
 
-**Fullstack Enginner** @ [Datto](http://www.datto.com.br)
+**Fullstack Enginner** @ [Datto](http://www.datto.com.br) _(Ago 2008 - Out 2010)_ <br>
   - Datto é uma fábrica de software onde cada um era responsável por todas as fases do projeto
   - **_Technologies utilizadas:_:** PHP; Zend 1; Smarty templates; Mysql; Jquery; Linux; Mysql
+
+**System analyst** @ [Renac](http://www.renac.com.br) _(Dez 2007 - Ago 2008)_ <br>
+  - Análise ao sistema da empresa, de modo a identificar erros e melhorias. 
+  - Manipulação do banco de dados, 
+  - Elaboração de consultas SQL, além do desenvolvimento de aplicações que auxiliam nas tarefas diárias.
 
 <br><br>
