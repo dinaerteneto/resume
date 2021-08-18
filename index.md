@@ -97,3 +97,13 @@ Tive de andar entre as squads e entre os fornecedores, até entender em que pé 
   - Elaboração de consultas SQL, além do desenvolvimento de aplicações que auxiliam nas tarefas diárias.
 
 <br><br>
+
+## 👩🏼‍🎓 Formação e cursos
+
+**Sistemas de internet**<br>
+[UNIP - Universidade paulista](https://www.unip.com.br/) - São Paulo, Brasil _(2007 - 2009)_ <br>
+
+**Php & Mysql**<br>
+[Senac](https://www.senac.edu.br/) - São Paulo, Brasil _(2010)_ <br>
+
+
