@@ -118,7 +118,9 @@ Tive de andar entre as squads e entre os fornecedores, até entender em que pé 
 **Nodejs com ReactJs (GoStack)** <br>
 [Rocketseat](https://rocketseat.com.br/) - Rocketseat
 
-## Cursos em andamento
+<br><br>
+
+## 🎯 Cursos em andamento
 
 **NodeJs, Typescript, TDD, DDD, Clean Architecture e SOLID** - Udemy <br>
 [Udemy](https://www.udemy.com/course/tdd-com-mango) - Udemy
@@ -126,4 +128,42 @@ Tive de andar entre as squads e entre os fornecedores, até entender em que pé 
 **Full Cycle 2.0**
 [Code Education](https://code.education) - Code Education
 
+<br><br>
+
+## 🙋‍♂️ Projetos prórprios
+
+**Sisnanceiro**
+[Sisnanceiro](https://sisnanceiro.com.br/) - Sisnanceiro
+Projeto feito completamento do zero e idealizado por mim.
+- **_Technologies utilizadas:** Laravel 5, php7.1, Jquery, Mysql, Docker
+
+**Decole com prêmios**
+[Decole Com Prêmios](https://decolecompremios.com.br) - Decole com prêmios
+Projeto freelancer feito complementamente do zero 
+- **_Principais desafios:** 6 anos depois que o sistema já estava rodando, recebi o desafio de adequa-lo para atender um relatório com falhas no pentest.
+Para atender todos os requisitos tive de hospeda-lo num servidor vps, instalar o ngnix com ssl.
+- **_Technologies utilizadas:** Yii 1., php5.3, Jquery, Mysql, Docker
+
+<br><br>
+
+## Tecnologias
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="NodeJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" alt="Ruby" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg"> 
+	
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Jquery" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
+  <img align="center" alt="AngularJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
+	
+  <img align="center" alt="Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Postgres" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+	
+  <img align="center" alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+  <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+</div>
 
