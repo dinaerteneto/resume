@@ -96,8 +96,6 @@ Tive de andar entre as squads e entre os fornecedores, até entender em que pé 
   - Manipulação do banco de dados, 
   - Elaboração de consultas SQL, além do desenvolvimento de aplicações que auxiliam nas tarefas diárias.
 
-<br><br>
-
 ## 👩🏼‍🎓 Formação e cursos
 
 **Ensino médio técnico (processamento de dados)**<br>
@@ -118,17 +116,13 @@ Tive de andar entre as squads e entre os fornecedores, até entender em que pé 
 **Nodejs com ReactJs (GoStack)** <br>
 [Rocketseat](https://rocketseat.com.br/) - Rocketseat
 
-<br><br>
-
-## 🎯 Cursos em andamento
+## 🚀 Cursos em andamento
 
 **NodeJs, Typescript, TDD, DDD, Clean Architecture e SOLID** - Udemy <br>
 [Udemy](https://www.udemy.com/course/tdd-com-mango) - Udemy
 
 **Full Cycle 2.0**
 [Code Education](https://code.education) - Code Education
-
-<br><br>
 
 ## 🙋‍♂️ Projetos próprios
 
@@ -144,9 +138,7 @@ Projeto freelancer feito complementamente do zero
 Para atender todos os requisitos tive de hospeda-lo num servidor vps, instalar o ngnix com ssl.
 - **_Technologies utilizadas:** Yii 1., php5.3, Jquery, Mysql, Docker
 
-<br><br>
-
-## Tecnologias
+## 🖥️ Tecnologias
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
