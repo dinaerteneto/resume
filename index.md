@@ -138,7 +138,7 @@ Projeto freelancer feito complementamente do zero
 Para atender todos os requisitos tive de hospeda-lo num servidor vps, instalar o ngnix com ssl.
 - **_Technologies utilizadas:** Yii 1., php5.3, Jquery, Mysql, Docker
 
-## 🖥️ Tecnologias
+## 🖥️ Tecnologias em meu domínio _(por enquanto)_
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
