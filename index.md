@@ -140,20 +140,20 @@ Para atender todos os requisitos tive de hospeda-lo num servidor vps, instalar o
 
 ## 🖥️ Tecnologias em meu domínio _(por enquanto)_
 
-<div style="display: inline_block">
-  <img align="center" alt="Js" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> Javascript <br>
-  <img align="center" alt="Ts" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> Typescript <br>
-  <img align="center" alt="NodeJs" height="20" width="30"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"> NodeJs <br>
-  <img align="center" alt="Php" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"> Php <br>
-  <img align="center" alt="Ruby"height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg"> Ruby <br>
-  <img align="center" alt="HTML" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> Html <br>
-  <img align="center" alt="CSS" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> Css <br>
-  <img align="center" alt="Jquery" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg"> Jquery <br>
-  <img align="center" alt="AngularJs" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg"> AngularJs <br>
-  <img align="center" alt="Mysql" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"> Mysql <br>
-  <img align="center" alt="Postgres" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"> Postgres <br>
-  <img align="center" alt="Linux" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"> Linux <br>
-  <img align="center" alt="Docker" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"> Docker <br>
-  <img align="center" alt="Docker" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"> Git <br>
-</div>
+<ul style="display: inline_block">
+  <li><img align="center" alt="Js" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> Javascript </li>
+  <li><img align="center" alt="Ts" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> Typescript </li>
+  <li><img align="center" alt="NodeJs" height="20" width="20"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"> NodeJs </li>
+  <li><img align="center" alt="Php" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"> Php </li>
+  <li><img align="center" alt="Ruby"height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg"> Ruby </li>
+  <li><img align="center" alt="HTML" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> Html </li>
+  <li><img align="center" alt="CSS" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> Css </li>
+  <li><img align="center" alt="Jquery" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg"> Jquery </li>
+  <li><img align="center" alt="AngularJs" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg"> AngularJs </li>
+  <li><img align="center" alt="Mysql" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"> Mysql </li>
+  <li><img align="center" alt="Postgres" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"> Postgres </li>
+  <li><img align="center" alt="Linux" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"> Linux </li>
+  <li><img align="center" alt="Docker" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"> Docker </li>
+  <li><img align="center" alt="Docker" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"> Git </li>
+</ul>
 
