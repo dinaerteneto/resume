@@ -143,9 +143,9 @@ Para atender todos os requisitos tive de hospeda-lo num servidor vps, instalar o
 <ul style="display: inline_block">
   <li><img align="center" alt="Js" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> Javascript </li>
   <li><img align="center" alt="Ts" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> Typescript </li>
-  <li><img align="center" alt="NodeJs" height="20" width="20"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"> NodeJs </li>
+  <li><img align="center" alt="NodeJs" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"> NodeJs </li>
   <li><img align="center" alt="Php" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"> Php </li>
-  <li><img align="center" alt="Ruby"height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg"> Ruby </li>
+  <li><img align="center" alt="Ruby" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg"> Ruby </li>
   <li><img align="center" alt="HTML" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> Html </li>
   <li><img align="center" alt="CSS" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> Css </li>
   <li><img align="center" alt="Jquery" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg"> Jquery </li>
