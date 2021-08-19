@@ -4,7 +4,7 @@ _Desenvolvedor de sistemas (as vezes um pouco de DBA 😀) atualmente moro um ta
 
 [Email](mailto:dinaerteneto@gmail.com) / [LinkedIn](https://www.linkedin.com/in/dinaerteneto/) / [GitHub](https://github.com/dinaerteneto/)
 
-## 💻 Experiência técnica
+## 💻 Experiência
 
 **Backend Engineer / Tech Lead** @ [MOL - Mediação Online](https://www.mediacaonline.com//) _(Nov 2019 - Atual)_ <br>
 Como líder técnico meu papel é orientar os desenvolvedores como atuar tecnicamente em cada sprint, além de codar bastante.
