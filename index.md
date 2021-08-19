@@ -130,7 +130,7 @@ Tive de andar entre as squads e entre os fornecedores, até entender em que pé 
 
 <br><br>
 
-## 🙋‍♂️ Projetos prórprios
+## 🙋‍♂️ Projetos próprios
 
 **Sisnanceiro**
 [Sisnanceiro](https://sisnanceiro.com.br/) - Sisnanceiro
