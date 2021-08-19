@@ -110,7 +110,7 @@ Tive de andar entre as squads e entre os fornecedores, até entender em que pé 
 **Java IBTA**<br>
 [Senac](https://www.universia.net/) - São Paulo, Brasil <br>
 
-**Gestão ágil com scrum**
+**Gestão ágil com scrum** <br>
 [Udemy](https://www.udemy.com/course/gestao-projetos-agile-scrum-completo/) - Udemy <br>
 
 **Nodejs com ReactJs (GoStack)** <br>
