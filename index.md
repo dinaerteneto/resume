@@ -12,7 +12,7 @@ Como líder técnico meu papel é orientar os desenvolvedores como atuar tecnica
   - **_Tecnologias utilizdas no ELT:_**: Aws: S3, Lambdas, CloudWatch,  RDS (Postgres) / Docker / Python, Serveless Frameword
   - Manutenção dos sistemas legados:
     - Além do ETL existem 3 sistemas legados ao qual eu também desenvolvo features e fixes:
-    - **_Technologies utilizadas no legado:_**
+    - **_Tecnologias utilizadas no legado:_**
     - **No primeiro deles:** Aws: EC2, RDS (postgres), ElasticBeanStalk / Docker / Ruby on Rails; AngularJs
     - **Nos demais:** Aws: EC2, RDS (postgres) / Docker / nodeJs; VueJs
   - Reescrita e dos sistema para utilzar clean api com TypeScript e TDD
@@ -51,12 +51,12 @@ Tive de andar entre as squads e entre os fornecedores, até entender em que pé 
 	  - Elaboração de triggers e Stored Procedure.
 	  - Cron para envio de push, cobrança automática no cartão de crédito e renovação automática de planos.
 	  - Integração com gateway de pagamento (PagarMe) e split de pagamento.
-	  - **_Technologies utilizadas:_** Less, Gulp, Laravel5, Yii2, Git, Git Flow, Amazon Aws, Jquery, VueJs, PHP 
+	  - **Tecnologias utilizadas:_** Less, Gulp, Laravel5, Yii2, Git, Git Flow, Amazon Aws, Jquery, VueJs, PHP 
 
 **Fullstack Enginner** @ [FTD] (https://ftd.com.br/) _(Set 2016 - Nov 2016)_ <br>
   - Integração com gateway de pagamento (Maxi Pago)
   - Recorte de layout PSD, 
-  - **_Technologies utilizadas:_:** Sass, AngularJs, Laravel5, Git
+  - **Tecnologias utilizdas:** Sass, AngularJs, Laravel5, Git
 
 **Fullstack Enginner** @ [Advanta / Vivo Empresas](http://www.advanta.com.br/) _(Set 2014 - Jun 2016)_ <br>
   - Manutenção do Sistema: O sistema foi desenvolvido com um framework próprio que gerava muitos erros.
@@ -64,20 +64,20 @@ Tive de andar entre as squads e entre os fornecedores, até entender em que pé 
   - No front-end implementei o jquery easyUI, highcharts e bootstrap.
   - Elaboração e manutenção nas procedures no sql server;
   - Liderei a equipe, participando da análise de requisitos, elaboração do frontend e algumas vezes na modelagem do banco.
-  - **_Technologies utilizadas:_:** PHP, CSS, Jquery, Javascript, Bootstrap, Highcharts, Jquery EasyUi, Sql Server
+  - **Tecnologias utilizdas:** PHP, CSS, Jquery, Javascript, Bootstrap, Highcharts, Jquery EasyUi, Sql Server
 
 **Fullstack Enginner** @ [Web Experience] _(Fev 2014 - Set 2014)_ <br>
   - Desenvolvimento de uma nova ferramenta de e-commerce; 
   - Levantamento de requisitos; 			
   - Modelagem de dados; 
   - Implementação de novas tecnologias.
-  - **_Technologies utilizadas:_:** PHP, Yii, Jquery, Jquery Easy Ui, CSS
+  - **Tecnologias utilizdas:** PHP, Yii, Jquery, Jquery Easy Ui, CSS
 
 **Fullstack Enginner** @ [Fastmind](http://www.fastmind.com.br) _(Ago 2013 - Fev 2014)_ <br>
   - Levantamento dos principais problemas no sistema de controle de logs de telefonia, desenvolvido pela empresa.
   - Elaboração de um mini-framework para tarefas automatizar tarefas.
   - Dentro deste micro-framework criamos: robos para fazer downloads, descompactar arquivos e importa-los no banco de dados.
-  - **_Technologies utilizadas:_:** Yii, PHP, Mysql, Jquery, Jquery Easy Ui, PostGres, Mysql
+  - **Tecnologias utilizdas:** Yii, PHP, Mysql, Jquery, Jquery Easy Ui, PostGres, Mysql
 
 **Fullstack Enginner** @ [Studiorama](http://www.studiorama.com.br) _(Out 2010 - Ago 2013)_ <br>
   - Desenvolvimento de rede social corporativa.
@@ -85,11 +85,11 @@ Tive de andar entre as squads e entre os fornecedores, até entender em que pé 
   - Análise de requisitos.
   - Modelagem do banco de dados.
   - Estudo e aplicação da melhor ferramenta (ffmpeg) para automatizar a conversão de vídeos enviados.
-  - **_Technologies utilizadas:_:** Yii, PHP, Jquery, Jquery Ui, Postgres
+  - **Tecnologias utilizdas:** Yii, PHP, Jquery, Jquery Ui, Postgres
 
 **Fullstack Enginner** @ [Datto](http://www.datto.com.br) _(Ago 2008 - Out 2010)_ <br>
   - Datto é uma fábrica de software onde cada um era responsável por todas as fases do projeto
-  - **_Technologies utilizadas:_:** PHP; Zend 1; Smarty templates; Mysql; Jquery; Linux; Mysql
+  - **Tecnologias utilizdas:** PHP; Zend 1; Smarty templates; Mysql; Jquery; Linux; Mysql
 
 **System analyst** @ [Renac](http://www.renac.com.br) _(Dez 2007 - Ago 2008)_ <br>
   - Análise ao sistema da empresa, de modo a identificar erros e melhorias. 
@@ -129,14 +129,14 @@ Tive de andar entre as squads e entre os fornecedores, até entender em que pé 
 **Sisnanceiro**
 [Sisnanceiro](https://sisnanceiro.com.br/) - Sisnanceiro
 Projeto feito completamento do zero e idealizado por mim.
-- **_Technologies utilizadas:** Laravel 5, php7.1, Jquery, Mysql, Docker
+- **Tecnologias utilizdas:** Laravel 5, php7.1, Jquery, Mysql, Docker
 
 **Decole com prêmios**
 [Decole Com Prêmios](https://decolecompremios.com.br) - Decole com prêmios
 Projeto freelancer feito complementamente do zero 
 - **_Principais desafios:** 6 anos depois que o sistema já estava rodando, recebi o desafio de adequa-lo para atender um relatório com falhas no pentest.
 Para atender todos os requisitos tive de hospeda-lo num servidor vps, instalar o ngnix com ssl.
-- **_Technologies utilizadas:** Yii 1., php5.3, Jquery, Mysql, Docker
+- **Tecnologias utilizdas:** Yii 1., php5.3, Jquery, Mysql, Docker
 
 ## 🖥️ Tecnologias em meu domínio _(por enquanto)_
 
