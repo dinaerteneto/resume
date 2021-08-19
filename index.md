@@ -100,10 +100,30 @@ Tive de andar entre as squads e entre os fornecedores, até entender em que pé 
 
 ## 👩🏼‍🎓 Formação e cursos
 
+**Ensino médio técnico (processamento de dados)**<br>
+[Colégio Tietê](http://www.colegiotiete.com.br/) - São Paulo, Brasil <br>
+
 **Sistemas de internet**<br>
 [UNIP - Universidade paulista](https://www.unip.com.br/) - São Paulo, Brasil _(2007 - 2009)_ <br>
 
 **Php & Mysql**<br>
 [Senac](https://www.senac.edu.br/) - São Paulo, Brasil _(2010)_ <br>
+
+**Java IBTA**<br>
+[Senac](https://www.universia.net/) - São Paulo, Brasil <br>
+
+**Gestão ágil com scrum**
+[Udemy](https://www.udemy.com/course/gestao-projetos-agile-scrum-completo/) - Udemy <br>
+
+**Nodejs com ReactJs (GoStack)** <br>
+[Rocketseat](https://rocketseat.com.br/) - Rocketseat
+
+## Cursos em andamento
+
+**NodeJs, Typescript, TDD, DDD, Clean Architecture e SOLID** - Udemy <br>
+[Udemy](https://www.udemy.com/course/tdd-com-mango) - Udemy
+
+**Full Cycle 2.0**
+[Code Education](https://code.education) - Code Education
 
 
