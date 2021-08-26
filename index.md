@@ -9,16 +9,16 @@ _Desenvolvedor de sistemas (as vezes um pouco de DBA 😀) atualmente moro um ta
 **Backend Engineer / Tech Lead** @ [MOL - Mediação Online](https://www.mediacaonline.com//) _(Nov 2019 - Atual)_ <br>
 Como líder técnico meu papel é orientar os desenvolvedores como atuar tecnicamente em cada sprint, além de codar bastante.
   - Implementação e melhorias do ETL.
-  - **_Tecnologias utilizdas no ELT:_**: Aws: S3, Lambdas, CloudWatch,  RDS (Postgres) / Docker / Python, Serveless Frameword
+  - **_Tecnologias utilizdas no ELT:_**: Aws: S3, Lambdas, CloudWatch,  RDS (PostgreSQL) / Docker / Python, Serveless Framework
   - Manutenção dos sistemas legados:
     - Além do ETL existem 3 sistemas legados ao qual eu também desenvolvo features e fixes:
     - **_Tecnologias utilizadas no legado:_**
-    - **No primeiro deles:** Aws: EC2, RDS (postgres), ElasticBeanStalk / Docker / Ruby on Rails; AngularJs
-    - **Nos demais:** Aws: EC2, RDS (postgres) / Docker / nodeJs; VueJs
-  - Reescrita e dos sistema para utilzar clean api com TypeScript e TDD
+    - **No primeiro deles:** Aws: EC2, RDS (PostgreSQL), ElasticBeanStalk / Docker / Ruby on Rails; AngularJs
+    - **Nos demais:** Aws: EC2, RDS (PostgreSQL) / Docker / nodeJs; VueJs
+  - Reescrita dos sistema para utilzar clean api com TypeScript e TDD
     - Neste caso eu tenho mantido o sistema em Ruby on Rails e AngularJs
     - Este sistema esta sendo reescrito utilizando serviços e uma nova cultura de desacomplamento.
-    - **Tecnologias utilizdas na reescrita:** TypeScript, Jest, NodeJs, Postgres
+    - **Tecnologias utilizdas na reescrita:** TypeScript, Jest, NodeJs, PostgreSQL
   - E aquela parte de DBA?
     - Por conhecer grande parte do banco de dados, e também por conhecer bastante o ETL também fica por minha conta alguns selects, updates, deletes e inserts.
     - Sei como executar subqueries, joins complexos e até mesmo updates com joins.
@@ -77,7 +77,7 @@ Tive de andar entre as squads e entre os fornecedores, até entender em que pé 
   - Levantamento dos principais problemas no sistema de controle de logs de telefonia, desenvolvido pela empresa.
   - Elaboração de um mini-framework para tarefas automatizar tarefas.
   - Dentro deste micro-framework criamos: robos para fazer downloads, descompactar arquivos e importa-los no banco de dados.
-  - **Tecnologias utilizdas:** Yii, PHP, Mysql, Jquery, Jquery Easy Ui, PostGres, Mysql
+  - **Tecnologias utilizdas:** Yii, PHP, Mysql, Jquery, Jquery Easy Ui, PostgreSQL, Mysql
 
 **Fullstack Enginner** @ [Studiorama](http://www.studiorama.com.br) _(Out 2010 - Ago 2013)_ <br>
   - Desenvolvimento de rede social corporativa.
@@ -85,7 +85,7 @@ Tive de andar entre as squads e entre os fornecedores, até entender em que pé 
   - Análise de requisitos.
   - Modelagem do banco de dados.
   - Estudo e aplicação da melhor ferramenta (ffmpeg) para automatizar a conversão de vídeos enviados.
-  - **Tecnologias utilizdas:** Yii, PHP, Jquery, Jquery Ui, Postgres
+  - **Tecnologias utilizdas:** Yii, PHP, Jquery, Jquery Ui, PostgreSQL
 
 **Fullstack Enginner** @ [Datto](http://www.datto.com.br) _(Ago 2008 - Out 2010)_ <br>
   - Datto é uma fábrica de software onde cada um era responsável por todas as fases do projeto
@@ -151,7 +151,7 @@ Para atender todos os requisitos tive de hospeda-lo num servidor vps, instalar o
   <li><img align="center" alt="Jquery" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg"> Jquery </li>
   <li><img align="center" alt="AngularJs" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg"> AngularJs </li>
   <li><img align="center" alt="Mysql" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"> Mysql </li>
-  <li><img align="center" alt="Postgres" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"> Postgres </li>
+  <li><img align="center" alt="Postgres" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"> PostgreSQL </li>
   <li><img align="center" alt="Linux" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"> Linux </li>
   <li><img align="center" alt="Docker" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"> Docker </li>
   <li><img align="center" alt="Docker" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"> Git </li>
